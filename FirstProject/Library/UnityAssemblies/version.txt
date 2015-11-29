@@ -1,0 +1,8 @@
+5.2.1f1:2.1.0.0
+StandaloneWindows
+D:/vantan/Editor/Data/Managed/UnityEngine.dll
+D:/vantan/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/vantan/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/vantan/Editor/Data/Managed/UnityEditor.dll
+D:/vantan/Editor/Data\Managed/Mono.Cecil.dll
+D:/vantan/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
