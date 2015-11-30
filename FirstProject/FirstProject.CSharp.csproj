@@ -89,6 +89,7 @@
     <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\SpringManager.cs" />
     <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\ThirdPersonCamera.cs" />
     <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\UnityChanControlScriptWithRgidBody.cs" />
+    <Compile Include="Assets\MyFolder\AI_Controll.cs" />
     <Compile Include="Assets\MyFolder\Follow.cs" />
     <Compile Include="Assets\MyFolder\MouseControlCamera.cs" />
     <Compile Include="Assets\MyFolder\PlayerMove.cs" />
@@ -111,6 +112,7 @@
     <None Include="Assets\DownloadAssets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair.shader" />
     <None Include="Assets\DownloadAssets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
     <None Include="Assets\DownloadAssets\UnityChan\Stage\Shader\AlphaMask.shader" />
+    <None Include="Assets\DownloadAssets\Wispy Sky\ReadMe.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
