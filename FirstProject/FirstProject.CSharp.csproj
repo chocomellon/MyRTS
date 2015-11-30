@@ -68,36 +68,49 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\DownloadAssets\BagIdea\GUIScript.cs" />
+    <Compile Include="Assets\DownloadAssets\PQAssets\Query-Chan-SD\Scripts\GUIController\CameraAction.cs" />
+    <Compile Include="Assets\DownloadAssets\PQAssets\Query-Chan-SD\Scripts\GUIController\FaceToCamera.cs" />
+    <Compile Include="Assets\DownloadAssets\PQAssets\Query-Chan-SD\Scripts\GUIController\GUIControllerSD.cs" />
+    <Compile Include="Assets\DownloadAssets\PQAssets\Query-Chan-SD\Scripts\GUIController\RotateProp.cs" />
+    <Compile Include="Assets\DownloadAssets\PQAssets\Query-Chan-SD\Scripts\GUIController\ShowTimeController.cs" />
+    <Compile Include="Assets\DownloadAssets\PQAssets\Query-Chan-SD\Scripts\QuerySDController\QuerySDEmotionalController.cs" />
+    <Compile Include="Assets\DownloadAssets\PQAssets\Query-Chan-SD\Scripts\QuerySDController\QuerySDMecanimController.cs" />
+    <Compile Include="Assets\DownloadAssets\PQAssets\Query-Chan-SD\Scripts\QuerySDController\QuerySDSoundController.cs" />
+    <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\AutoBlink.cs" />
+    <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\AutoBlinkforSD.cs" />
+    <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\CameraController.cs" />
+    <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\FaceUpdate.cs" />
+    <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\IKCtrlRightHand.cs" />
+    <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\IdleChanger.cs" />
+    <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\RandomWind.cs" />
+    <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\SpringBone.cs" />
+    <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\SpringCollider.cs" />
+    <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\SpringManager.cs" />
+    <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\ThirdPersonCamera.cs" />
+    <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\UnityChanControlScriptWithRgidBody.cs" />
     <Compile Include="Assets\MyFolder\Follow.cs" />
     <Compile Include="Assets\MyFolder\MouseControlCamera.cs" />
-    <Compile Include="Assets\MyFolder\Move.cs" />
+    <Compile Include="Assets\MyFolder\PlayerMove.cs" />
     <Compile Include="Assets\MyFolder\SelectObjectSystem.cs" />
-    <Compile Include="Assets\UnityChan\Scripts\AutoBlink.cs" />
-    <Compile Include="Assets\UnityChan\Scripts\AutoBlinkforSD.cs" />
-    <Compile Include="Assets\UnityChan\Scripts\CameraController.cs" />
-    <Compile Include="Assets\UnityChan\Scripts\FaceUpdate.cs" />
-    <Compile Include="Assets\UnityChan\Scripts\IKCtrlRightHand.cs" />
-    <Compile Include="Assets\UnityChan\Scripts\IdleChanger.cs" />
-    <Compile Include="Assets\UnityChan\Scripts\RandomWind.cs" />
-    <Compile Include="Assets\UnityChan\Scripts\SpringBone.cs" />
-    <Compile Include="Assets\UnityChan\Scripts\SpringCollider.cs" />
-    <Compile Include="Assets\UnityChan\Scripts\SpringManager.cs" />
-    <Compile Include="Assets\UnityChan\Scripts\ThirdPersonCamera.cs" />
-    <Compile Include="Assets\UnityChan\Scripts\UnityChanControlScriptWithRgidBody.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Baker House\Readme.txt" />
-    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_akarami_blend.shader" />
-    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
-    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye_blend.shader" />
-    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eyelash_blend.shader" />
-    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
-    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku_ds.shader" />
-    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hada.shader" />
-    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hada_blend.shader" />
-    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair.shader" />
-    <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
-    <None Include="Assets\UnityChan\Stage\Shader\AlphaMask.shader" />
+    <None Include="Assets\DownloadAssets\A_piece_of_nature\Readme.txt" />
+    <None Include="Assets\DownloadAssets\Baker House\Readme.txt" />
+    <None Include="Assets\DownloadAssets\PQAssets\Query-Chan-SD\Documents\ReadMe.txt" />
+    <None Include="Assets\DownloadAssets\PQAssets\Query-Chan-SD\license_en.txt" />
+    <None Include="Assets\DownloadAssets\PQAssets\Query-Chan-SD\license_jp.txt" />
+    <None Include="Assets\DownloadAssets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_akarami_blend.shader" />
+    <None Include="Assets\DownloadAssets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye.shader" />
+    <None Include="Assets\DownloadAssets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye_blend.shader" />
+    <None Include="Assets\DownloadAssets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eyelash_blend.shader" />
+    <None Include="Assets\DownloadAssets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
+    <None Include="Assets\DownloadAssets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku_ds.shader" />
+    <None Include="Assets\DownloadAssets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hada.shader" />
+    <None Include="Assets\DownloadAssets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hada_blend.shader" />
+    <None Include="Assets\DownloadAssets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair.shader" />
+    <None Include="Assets\DownloadAssets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
+    <None Include="Assets\DownloadAssets\UnityChan\Stage\Shader\AlphaMask.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
