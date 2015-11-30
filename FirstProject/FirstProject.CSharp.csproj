@@ -90,6 +90,7 @@
     <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\ThirdPersonCamera.cs" />
     <Compile Include="Assets\DownloadAssets\UnityChan\Scripts\UnityChanControlScriptWithRgidBody.cs" />
     <Compile Include="Assets\MyFolder\AI_Controll.cs" />
+    <Compile Include="Assets\MyFolder\CameraTarget.cs" />
     <Compile Include="Assets\MyFolder\Follow.cs" />
     <Compile Include="Assets\MyFolder\MouseControlCamera.cs" />
     <Compile Include="Assets\MyFolder\PlayerMove.cs" />
